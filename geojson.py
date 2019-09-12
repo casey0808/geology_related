@@ -1,3 +1,5 @@
+# LIMITED USAGE
+
 import urllib.request, urllib.parse, urllib.error
 import json
 import ssl
